@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700');
+
+
+body {
+background-color: #82DDB5;
+background-image: url('img/illustration.gif'), url('img/texture.jpg');
+background-position: center 280px, left top;
+background-repeat: no-repeat, repeat-x;
+background-size: 800px, auto;
+font-family: 'Quicksand', sans-serif;
+margin: 0;
+    }
+#nav {
+background-color: #6B9;
+text-align: center
+color: white;
+font-weight: bold;
+    padding: 20px 0;
+    border-bottom: 2px dashed #487;
+text-align: center;
+word-spacing: 2em;
+    
+}
+#header {
+text-align: center;
+margin-top: 40px;
+}
+
+#what {background-color: #c6eddc
+    text-align: start;
+padding-left:150px; 
+padding-right: 159px
+}
+
+#what h1 {
+    text-align: center;
+}
+
+#logo {
+max-width: 360px;
+width: 100%;
+}
+
+#why {
+    background-color:#b6e9d2
+}
+#where{text-align: end;
+   padding-right: 150px
+}
+#where h1{ 
+padding-left: 150px
+}
+#where h2{
+background-image: url('img/map.gif'), 
+url('img/texture.jpg');
+
+}
+
+#when{border-bottom: dashed black;
+     
+}
+#who{background-color:whitesmoke
+
+}
+
+#description, #date {
+max-width: 220px;
+width: 100%;
+}
+.register_btn {
+background-color: #E43;
+border: 2px dashed #A43;
+border-radius: 2em;
+color: #FFF;
+cursor: pointer;
+display: inline-block;
+font-weight: bold;
+margin-top: 25px;
+padding: 15px 30px;
+}
